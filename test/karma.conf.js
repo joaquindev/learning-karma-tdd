@@ -14,7 +14,8 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      '../test/**spec.js'//we have to use ../ because it starts searching from karma.conf.js location
+      '../test/**spec.js',//we have to use ../ because it starts searching from karma.conf.js location
+      '../src/**.js'
     ],
 
 
