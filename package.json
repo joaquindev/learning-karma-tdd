@@ -1,0 +1,30 @@
+{
+  "name": "learning-karma-tdd",
+  "version": "0.0.1",
+  "description": "This repo is a log of everystep to make karma up and running",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquindev/learning-karma-tdd.git"
+  },
+  "keywords": [
+    "karma",
+    "jasmine",
+    "tdd"
+  ],
+  "author": "JoaquinDev",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "21d2bdf8c7e0fd65fba5cab6f69b9d058bb863b9",
+
+  "dependencies": {}, 
+
+  "devDependencies": {
+    "karma": "*",
+    "grunt": "*",
+    "grunt-karma": "*"
+  }
+}
